@@ -23,10 +23,6 @@ Intégrer et consommer l’API RESTful OpenWeatherMap avec Node.js en utilisant 
   - `node-fetch`
   - `axios`
 
----
-
-##  Lancement du projet
-
 1. **Cloner le projet** :
 
 ```bash
